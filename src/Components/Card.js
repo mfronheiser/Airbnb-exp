@@ -1,4 +1,4 @@
-import star1 from "../assets/star1.png"
+import star1 from "../assets/star1.png";
 
 
 
@@ -9,20 +9,20 @@ export default function Card(props) {
         badgeText = "SOLD OUT"
     } else if (props.item.location === "Online"){
         badgeText ="ONLINE"
-        
+    }    
 
     return (
         <div className="card">
             {badgeText && <div className="card--badge">{badgeText}</div>}
-            <img src={`../images/${props.img}`} className="card--photo"/>
+        <img src={props.item.coverImg} className="card--photo"/>
             <div className="card--stats">
                 <img src={star1} className="card--star" />
-                <span>{props.rating}</span>
-                <span className="gray"> ({props.reviewCount})• </span>
-                <span className="gray">{props.location}</span>
+                <span className="card--rating">{props.item.rating}</span>
+                <span className="gray"> ({props.item.reviewCount}) •  </span>
+                <span className="gray">{props.item.location}</span>
             </div>
-            <p>{props.title}</p>
-            <p><span className="bold">From ${props.price}</span> / person</p>
+            <p className="card--title">{props.item.title}</p>
+            <p><span className="bold">From ${props.item.price}</span> / person</p>
         </div>
     )
-}}
+}
