@@ -7,7 +7,7 @@ import beer from "./images/meritt-thomas-XStd_1-BNi8-unsplash.jpg"
 import kayak from "./images/taryn-manning-y3CAU_73jWk-unsplash.jpg"
 
 
-export default [
+const list= [
     {
         id: 3,
         title: "Wine Tasting and Lunch",
@@ -86,3 +86,5 @@ export default [
         openSpots: 3,
     }
 ]
+
+export default list
