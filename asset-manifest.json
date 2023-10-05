@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/airbnb-exp/static/css/main.fc8eff89.css",
+    "main.js": "/airbnb-exp/static/js/main.437a0e9a.js",
+    "static/js/787.9fbf94f1.chunk.js": "/airbnb-exp/static/js/787.9fbf94f1.chunk.js",
+    "static/media/meritt-thomas-XStd_1-BNi8-unsplash.jpg": "/airbnb-exp/static/media/meritt-thomas-XStd_1-BNi8-unsplash.ac2471cc4b8e6bc25da6.jpg",
+    "static/media/edgar-loYPP3xIjhk-unsplash.jpg": "/airbnb-exp/static/media/edgar-loYPP3xIjhk-unsplash.b95753535cd0c35211f9.jpg",
+    "static/media/chelsea-pridham-Pj1JHHRqD3c-unsplash.jpg": "/airbnb-exp/static/media/chelsea-pridham-Pj1JHHRqD3c-unsplash.52a037e7b3b854ba1359.jpg",
+    "static/media/taryn-manning-y3CAU_73jWk-unsplash.jpg": "/airbnb-exp/static/media/taryn-manning-y3CAU_73jWk-unsplash.1af921bb08412d67caeb.jpg",
+    "static/media/grid.png": "/airbnb-exp/static/media/grid.839b0e59d6b5888cc5aa.png",
+    "static/media/bike.png": "/airbnb-exp/static/media/bike.e249d8a7c9dd6935df4c.png",
+    "static/media/wedding.png": "/airbnb-exp/static/media/wedding.62dfa0af6d4f23912427.png",
+    "static/media/katie.png": "/airbnb-exp/static/media/katie.8c39a93af3d2de2b3c27.png",
+    "static/media/airbnb-logo.png": "/airbnb-exp/static/media/airbnb-logo.e4424517383d14a03a24.png",
+    "index.html": "/airbnb-exp/index.html",
+    "main.fc8eff89.css.map": "/airbnb-exp/static/css/main.fc8eff89.css.map",
+    "main.437a0e9a.js.map": "/airbnb-exp/static/js/main.437a0e9a.js.map",
+    "787.9fbf94f1.chunk.js.map": "/airbnb-exp/static/js/787.9fbf94f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc8eff89.css",
+    "static/js/main.437a0e9a.js"
+  ]
+}
