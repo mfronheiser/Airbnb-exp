@@ -1,7 +1,7 @@
 {
   "name": "airbnb-ex",
   "version": "0.1.0",
-  "homepage": "https://mfronheiser.github.io/airbnb-exp",
+  "homepage": "https://mfronheiser.github.io/Airbnb-exp",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
